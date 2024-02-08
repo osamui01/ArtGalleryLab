@@ -1,8 +1,8 @@
 public class Artist {
     private String name;
 
-    public Artist(String name){
-        this.name  = name;
+    public Artist(String artistName){
+        this.name  = artistName;
     }
 
     public String getName(){
